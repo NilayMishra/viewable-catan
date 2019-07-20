@@ -1,20 +1,29 @@
 {
   "files": {
-    "main.css": "/viewable-catan/static/css/main.9117de52.chunk.css",
-    "main.js": "/viewable-catan/static/js/main.cb58b42b.chunk.js",
-    "main.js.map": "/viewable-catan/static/js/main.cb58b42b.chunk.js.map",
+    "main.css": "/viewable-catan/static/css/main.863b4271.chunk.css",
+    "main.js": "/viewable-catan/static/js/main.b73084d4.chunk.js",
+    "main.js.map": "/viewable-catan/static/js/main.b73084d4.chunk.js.map",
     "runtime~main.js": "/viewable-catan/static/js/runtime~main.700dfa63.js",
     "runtime~main.js.map": "/viewable-catan/static/js/runtime~main.700dfa63.js.map",
-    "static/js/2.796f89c7.chunk.js": "/viewable-catan/static/js/2.796f89c7.chunk.js",
-    "static/js/2.796f89c7.chunk.js.map": "/viewable-catan/static/js/2.796f89c7.chunk.js.map",
+    "static/js/2.46275978.chunk.js": "/viewable-catan/static/js/2.46275978.chunk.js",
+    "static/js/2.46275978.chunk.js.map": "/viewable-catan/static/js/2.46275978.chunk.js.map",
     "index.html": "/viewable-catan/index.html",
-    "precache-manifest.d027279ea5d7509f96cf5bdafd673631.js": "/viewable-catan/precache-manifest.d027279ea5d7509f96cf5bdafd673631.js",
+    "precache-manifest.8e50f362f2c1be1d032951da47e6da62.js": "/viewable-catan/precache-manifest.8e50f362f2c1be1d032951da47e6da62.js",
     "service-worker.js": "/viewable-catan/service-worker.js",
-    "static/css/main.9117de52.chunk.css.map": "/viewable-catan/static/css/main.9117de52.chunk.css.map",
+    "static/css/main.863b4271.chunk.css.map": "/viewable-catan/static/css/main.863b4271.chunk.css.map",
     "static/media/brick.png": "/viewable-catan/static/media/brick.12ab5df0.png",
+    "static/media/chapel.png": "/viewable-catan/static/media/chapel.d1228f27.png",
+    "static/media/knight.png": "/viewable-catan/static/media/knight.3dac0a77.png",
+    "static/media/library.png": "/viewable-catan/static/media/library.a8476417.png",
+    "static/media/market.png": "/viewable-catan/static/media/market.121161a8.png",
+    "static/media/monopoly.png": "/viewable-catan/static/media/monopoly.9e6179a0.png",
     "static/media/ore.png": "/viewable-catan/static/media/ore.23660d1e.png",
+    "static/media/palace.png": "/viewable-catan/static/media/palace.2843d785.png",
+    "static/media/roadbuilding.png": "/viewable-catan/static/media/roadbuilding.59ca78f9.png",
     "static/media/sheep.png": "/viewable-catan/static/media/sheep.d2d71661.png",
+    "static/media/university.png": "/viewable-catan/static/media/university.c9e7b829.png",
     "static/media/wheat.png": "/viewable-catan/static/media/wheat.e8f3f38e.png",
-    "static/media/wood.png": "/viewable-catan/static/media/wood.31aa09c6.png"
+    "static/media/wood.png": "/viewable-catan/static/media/wood.31aa09c6.png",
+    "static/media/yearofplenty.png": "/viewable-catan/static/media/yearofplenty.104b0225.png"
   }
 }
