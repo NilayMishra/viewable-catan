@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/viewable-catan/static/css/main.5c4e3a8c.chunk.css",
-    "main.js": "/viewable-catan/static/js/main.c3e90a35.chunk.js",
-    "main.js.map": "/viewable-catan/static/js/main.c3e90a35.chunk.js.map",
+    "main.js": "/viewable-catan/static/js/main.1cdd85a7.chunk.js",
+    "main.js.map": "/viewable-catan/static/js/main.1cdd85a7.chunk.js.map",
     "runtime~main.js": "/viewable-catan/static/js/runtime~main.700dfa63.js",
     "runtime~main.js.map": "/viewable-catan/static/js/runtime~main.700dfa63.js.map",
     "static/js/2.46275978.chunk.js": "/viewable-catan/static/js/2.46275978.chunk.js",
     "static/js/2.46275978.chunk.js.map": "/viewable-catan/static/js/2.46275978.chunk.js.map",
     "index.html": "/viewable-catan/index.html",
-    "precache-manifest.5105dcbaf91f50bacaca53473c21777e.js": "/viewable-catan/precache-manifest.5105dcbaf91f50bacaca53473c21777e.js",
+    "precache-manifest.f60a537d32bfc3f63c289d8aef7fa210.js": "/viewable-catan/precache-manifest.f60a537d32bfc3f63c289d8aef7fa210.js",
     "service-worker.js": "/viewable-catan/service-worker.js",
     "static/css/main.5c4e3a8c.chunk.css.map": "/viewable-catan/static/css/main.5c4e3a8c.chunk.css.map",
     "static/media/brick.png": "/viewable-catan/static/media/brick.12ab5df0.png",
